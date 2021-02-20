@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lucianossantos1" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="lucianossantos1" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/lucianossantos1" target="_blank"><img align="center"src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="lucianossantos1" height="40" width="40" /></a>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcnssantos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

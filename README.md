@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, Spring Boot**
 
-- 👯 I’m looking to collaborate on **IVAO**
+- 👯 I’m currently collaborating on [IVAO](https://ivao.aero)
 
 - 💬 Ask me about **react, node, typescript, php, laravel**
 

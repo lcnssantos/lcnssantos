@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **everis**
 
-- 🌱 I’m currently learning **Java, Spring Boot**
+- 🌱 I’m currently learning **Java, Spring**
 
 - 👯 I’m currently collaborating on [IVAO](https://ivao.aero)
 

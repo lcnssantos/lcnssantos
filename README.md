@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luciano</h1>
 <h3 align="center">A backend developer from Brazil</h3>
 
-- 🔭 I’m currently working on **everis**
+- 🔭 I’m currently working on **NTT Data Brazil**
 
 - 🌱 I’m currently learning **Java, Spring**
 
